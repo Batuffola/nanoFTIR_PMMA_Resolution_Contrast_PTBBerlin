@@ -40,6 +40,19 @@ README.md
 
 ---
 
+
+---
+
+## ⚙️ Methods Overview
+
+- Spectra acquired via nano-FTIR setup with **infrared synchrotron radiation** (BESSY II)
+- Sample: PMMA on Pt/SiO₂ structured chip
+- Scans varied by:
+  - Interferogram length: 600 vs. 800 points
+  - Integration time: 8 ms / 16 ms
+  - Repetitions: 1×, 10×
+- Signal quality evaluated using **Gaussian fits** and **contrast profiles**
+
 ## 📊 Key Findings
 
 ### 1. Resolution and Oversampling
@@ -90,7 +103,7 @@ This was traced to interferometer position aligning with **Pt minima**, altering
 
 ## 📜 License & Acknowledgment
 
-Unpublished project by **Barbara Vinatzer**, with support from PTB Berlin, 2022.
+Unpublished project by **Barbara Vinatzer**, with support from PTB Berlin, 2020.
 
 ---
 
@@ -99,3 +112,10 @@ Unpublished project by **Barbara Vinatzer**, with support from PTB Berlin, 2022.
 **Barbara Vinatzer**  
 Research Assistant, TU Dresden (SynoSys)  
 [GitHub](https://github.com/Batuffola)
+
+---
+
+## 📆 Project History
+
+🗓️ This project was conducted between **June and August 2020** as a side research study during my time at **PTB Berlin**.  
+It complements my later Bachelor's thesis on compressed sensing in nano-FTIR spectroscopy.
