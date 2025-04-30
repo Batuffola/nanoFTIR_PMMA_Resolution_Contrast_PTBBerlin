@@ -90,11 +90,12 @@ This was traced to interferometer position aligning with **Pt minima**, altering
 
 ## 📜 License & Acknowledgment
 
-This project was conducted at the Physikalisch-Technische Bundesanstalt (PTB) in Berlin and is officially archived in the PTB library.
-🗓️ Published: 2021
+Unpublished project by **Barbara Vinatzer**, with support from PTB Berlin, 2022.
+
 ---
 
 ## 🙋‍♀️ Author
 
-**Barbara Vinatzer**    
+**Barbara Vinatzer**  
+Research Assistant, TU Dresden (SynoSys)  
 [GitHub](https://github.com/Batuffola)
