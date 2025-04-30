@@ -130,5 +130,4 @@ It complements my later Bachelor's thesis on compressed sensing in nano-FTIR spe
 ## 🙋‍♀️ Author
 
 **Barbara Vinatzer**  
-Research Assistant, TU Dresden (SynoSys)  
 [GitHub](https://github.com/Batuffola)
